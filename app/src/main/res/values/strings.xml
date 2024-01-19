@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Liquidacion</string>
+    <string name="btn_siguiente">Siguiente</string>
+    <string name="txt_nombres"></string>
+    <string name="txt_nombresView">Nombres</string>
+    <string name="txt_apellidos"></string>
+    <string name="txt_apellidosView">Apellidos</string>
+    <string name="txt_cargo"></string>
+    <string name="txt_cargoView">Cargo</string>
+    <string name="txt_sueldo"></string>
+    <string name="txt_sueldoView">Sueldo Base</string>
+    <string name="txt_dias"></string>
+    <string name="txt_diasView">Dias</string>
+    <string name="txt_valorxdia">Valor por Dias</string>
+    <string name="txt_subTotal">Subtotal</string>
+    <string name="txt_sueldoNeto">Sueldo neto</string>
+    <string name="txt_sueldoBruto">Sueldo bruto</string>
+    <string name="txt_descuento">Descuento</string>
+    <string name="txt_salud">Salud</string>
+    <string name="txt_pension">Pension</string>
+    <string name="check_descuento">Descuento</string>
+    <string name="check_salud">Salud</string>
+    <string name="check_pension">Pension</string>
+    <string name="btn_regresar">Regresar</string>
+    <string name="btn_salir">Salir</string>
+    <string name="btn_liquidar">Liquidar</string>
+</resources>
